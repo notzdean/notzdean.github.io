@@ -2684,6 +2684,10 @@ input, select, textarea {
 			width: 50%;
 		}
 
+			.features article .inner p {
+				text-align: justify;
+			}
+
 			.features article .inner > :last-child {
 				margin-bottom: 0;
 			}
