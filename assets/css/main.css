@@ -2685,7 +2685,7 @@ input, select, textarea {
 		}
 
 			.features article .inner p {
-				text-align: justify;
+				text-align: justify !important;
 			}
 
 			.features article .inner > :last-child {
@@ -3182,6 +3182,10 @@ input, select, textarea {
 				display: block;
 				width: 100%;
 			}
+
+				.features article .inner p {
+					text-align: justify !important;
+				}
 
 		/* Header */
 
