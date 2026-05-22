@@ -2748,9 +2748,9 @@ input, select, textarea {
 
 			#header > header .avatar {
 				display: block;
-				margin: 0 auto 1em auto;
-				width: 12em;
-				height: 12em;
+				margin: 0 auto 2.25em auto;
+				width: 8em;
+				height: 8em;
 				overflow: hidden;
 			}
 
@@ -3203,9 +3203,9 @@ input, select, textarea {
 				}
 
 					#header > header .avatar {
-						margin: 0 auto 1em auto;
-						width: 9em;
-						height: 9em;
+						margin: 0 auto 1.6875em auto;
+						width: 6em;
+						height: 6em;
 						overflow: hidden;
 					}
 
